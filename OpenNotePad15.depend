@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1482777872 source:c:\users\alper\desktop\opennotepad15\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
